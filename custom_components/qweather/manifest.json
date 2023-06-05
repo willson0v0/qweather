@@ -1,0 +1,12 @@
+{
+    "domain": "qweather",
+    "name": "qweather",
+    "version":"1.0.1",
+    "documentation": "",
+    "iot_class": "cloud_polling",
+    "issue_tracker": "",
+    "dependencies": [],
+    "codeowners": ["@willson0v0"],
+    "requirements": []
+  }
+  
